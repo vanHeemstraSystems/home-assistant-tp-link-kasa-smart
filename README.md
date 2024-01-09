@@ -23,4 +23,4 @@ After pip has been installed we follow the [instructions](https://python-kasa.re
 ## 300 - Building Our Application
 
 
-## 400 - Cocnclusion
+## 400 - Conclusion
