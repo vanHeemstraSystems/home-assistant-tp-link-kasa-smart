@@ -26,7 +26,7 @@ So a workaround/solution for this is to use *pyenv* to install Python 2.7 (or an
 3. Install Python 2.7.18 with ```$ pyenv install 2.7.18```
 4. List installed versions with ```$ pyenv versions```
 5. Set global python version with ```pyenv global 2.7.18```
-6. Add eval "$(pyenv init --path)" to ~/.zprofile (or ~/.bash_profile or ~/.zshrc, whichever you need)
+6. Add ```eval "$(pyenv init --path)"``` to ```~/.zprofile``` (or ```~/.bash_profile``` or ```~/.zshrc```, whichever you need)
 7. Relaunch the shell and check that Python works, or run ```$ source ~/.zprofile```
 
 We are going to make use of python-kasa and will install it on Mac OS (Mac Mini).
