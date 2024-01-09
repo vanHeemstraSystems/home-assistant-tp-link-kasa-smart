@@ -5,4 +5,4 @@ Based on "TP-Link Kasa Smart" at https://www.home-assistant.io/integrations/tpli
 
 Based on "kasa command line tool" at https://python-kasa.readthedocs.io/en/latest/cli.html#provisioning
 
-Based on "Python Kasa" at https://python-kasa.readthedocs.io/en/latest/index.htm
+Based on "Python Kasa" at https://python-kasa.readthedocs.io/en/latest/index.html
