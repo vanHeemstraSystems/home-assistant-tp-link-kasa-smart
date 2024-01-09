@@ -25,9 +25,9 @@ So a workaround/solution for this is to use *pyenv* to install Python 2.7 (or an
 
 1. Install ```pyenv``` with ```brew``` to manage different Python versions: ```$ brew install pyenv```
 2. List all installable versions with ```$ pyenv install --list```
-3. Install Python 2.7.18 with ```$ pyenv install 2.7.18```
+3. Install Python 2.7.18 with ```$ pyenv install 3.12.1```
 4. List installed versions with ```$ pyenv versions```
-5. Set global python version with ```pyenv global 2.7.18```
+5. Set global python version with ```pyenv global 3.12.1```
 6. Add ```eval "$(pyenv init --path)"``` to ```~/.zprofile``` (or ```~/.bash_profile``` or ```~/.zshrc```, whichever you need)
 7. Relaunch the shell and check that Python works, or run ```$ source ~/.zprofile```
 
