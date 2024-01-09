@@ -6,3 +6,21 @@ Based on "TP-Link Kasa Smart" at https://www.home-assistant.io/integrations/tpli
 Based on "kasa command line tool" at https://python-kasa.readthedocs.io/en/latest/cli.html#provisioning
 
 Based on "Python Kasa" at https://python-kasa.readthedocs.io/en/latest/index.html
+
+## 100 - Introduction
+
+With TP-Link Kasa Smart we can manage TP-Link Kasa Smart Devices from Home Assistant.
+
+## 200 - Requirements
+
+We are going to make use of python-kasa and will install it on Mac OS (Mac Mini).
+
+Hence, we require ```pip``` on Mac OS, see [How to install pip on Mac step by step](https://macpaw.com/how-to/install-pip-mac).
+
+After pip has been installed we follow the [instructions](https://python-kasa.readthedocs.io/en/latest/index.html) to install ```python-kasa``` on Mac OS.
+
+
+## 300 - Building Our Application
+
+
+## 400 - Cocnclusion
