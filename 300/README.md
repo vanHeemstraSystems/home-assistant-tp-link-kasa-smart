@@ -1,5 +1,7 @@
 # 300 - Building Our Application
 
+**TIP**: Use [Fing](https://github.com/vanHeemstraSystems/fing) if you need to scan your home network for devices.
+
 ## 100 - Discover the TP-Link Smart Device
 
 With ```python-kasa``` installed, try the following:
