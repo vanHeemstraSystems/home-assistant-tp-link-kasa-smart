@@ -9,9 +9,7 @@ Based on "Python Kasa" at https://python-kasa.readthedocs.io/en/latest/index.htm
 
 ## 100 - Introduction
 
-With TP-Link Kasa Smart we can manage TP-Link Kasa Smart Devices from Home Assistant.
-
-For example, we own a TP-Link Kasa Smart Plug (**HS-110**) which we should be able to switch on/off remotely.
+See [README.md](./100/README.md)
 
 ## 200 - Requirements
 
