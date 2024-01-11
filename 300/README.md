@@ -24,9 +24,14 @@ Discovering devices on 255.255.255.255 for 3 seconds
   LED state: True
   On since: 2024-01-09 16:54:05
   == Current State ==
-  ...
+  <EmeterStatus power=4.391 voltage=228.812 current=0.047 total=0.001>
   == Modules ==
-  ...
+  + <Module Schedule (schedule) for 192.168.0.1>
+  + <Module Usage (schedule) for 192.168.0.1>
+  + <Module Antiteft (anti_theft) for 192.168.0.1>
+  + <Module Time (time) for 192.168.0.1>
+  + <Module Cloud (cloud) for 192.168.0.1>
+  + <Module Emeter (emeter) for 192.168.0.1>
 Found 1 devices
 ```
 
