@@ -32,7 +32,7 @@ Discovering devices on 255.255.255.255 for 3 seconds
   + <Module Usage (schedule) for 192.168.0.1>
   + <Module Antiteft (anti_theft) for 192.168.0.1>
   + <Module Time (time) for 192.168.0.1>
-  + <Module Cloud (cloud) for 192.168.0.1>
+  + <Module Cloud (cnCloud) for 192.168.0.1>
   + <Module Emeter (emeter) for 192.168.0.1>
 Found 1 devices
 ```
