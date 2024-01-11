@@ -68,6 +68,14 @@ Above, enter the password of the network to be joined (here: TP-Link_1476, which
 
 See also https://home-assistant.io/integrations/tplink/
 
+### 100 - Automatic Integration
+
+1) Inside your Home Assistant instance, open https://home-assistant.io/integrations/tplink/
+2) Click on the button: **Add Integration to my (Home Assistant)**.
+3) Follow the instructions.
+
+### 200 - Manual Integration
+
 1) Inside your Home Assistant instance go to Settings > Devices & Services. Choose the tab **Integrations** and if the ```TP-Link``` integration is not already there, click the button **+ ADD INTEGRATION**.
 2) Search for ```TP-Link`` to set up a new integration.
 3) When listed, click on the found ```TP-Link``` list item.
