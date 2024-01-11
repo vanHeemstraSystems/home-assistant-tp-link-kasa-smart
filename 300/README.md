@@ -62,8 +62,12 @@ Password: *****
 
 Above, enter the password of the network to be joined (here: TP-Link_1476, which is the TP-Link Router). Hit ENTER.
 
+**NOTE**: Once the TP-Link Smart Device is provisioned to the wifi-network TP-Link_1476 as the Router supports both 2.4G and 5G, we as the computer user cann still connect to the 5G channel (TP_Link_1476_5G) to communicate with the TP-Link Smart Device as they will then both be connected to the same router (with the same password).
+
+## 300 - Integrate the TP-Link Smart Device in Home Assistant
+
+See also https://home-assistant.io/integrations/tplink/
+
+MORE ..
 
 
-
-
-More ...
