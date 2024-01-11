@@ -47,6 +47,12 @@ Use ```kasa discover``` (or check the routes) to locate the IP address of the de
 
 Scan for available networks using ```$ kasa --host 192.168.0.1 wifi scan```. See which networks are visible to the device.
 
+```
+No --type defined, discovering..
+Scanning for wifi networks, wait a second..
+...
+```
+
 Join/change the network using ```$ kasa --host 192.168.0.1 wifi join <network to join>```. Here use the same wifi-network as the one your Home Assistant instance is connected to (here: TP-Link_1476_5G, which is the TP-Link Router).
 
 More ...
