@@ -53,14 +53,14 @@ Scanning for wifi networks, wait a second..
 ...
 ```
 
-Join/change the network using ```$ kasa --host 192.168.0.1 wifi join <network to join>```. Here use the same wifi-network as the one your Home Assistant instance is connected to (here: TP-Link_1476_5G, which is the TP-Link Router).
+Join/change the network using ```$ kasa --host 192.168.0.1 wifi join <network to join>```. Here use the same wifi-network as the one your Home Assistant instance is connected to (here: TP-Link_1476, which is the TP-Link Router). **WARNING**: TP-Link Smart Device is not (yet) compatible with 5G wifi-network, hence choose your 2.4G equivalent channel of your router (so **not** TP-Link_1476_5G).
 
 ```
 No --type defined, discovering..
 Password: *****
 ```
 
-Above, enter the password of the network to be joined (here: TP-Link_1476_5G, which is the TP-Link Router). Hit ENTER.
+Above, enter the password of the network to be joined (here: TP-Link_1476, which is the TP-Link Router). Hit ENTER.
 
 
 
