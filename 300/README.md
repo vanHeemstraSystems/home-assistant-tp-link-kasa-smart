@@ -1,5 +1,7 @@
 # 300 - Building Our Application
 
+## 100 - Discover the TP-Link Smart Device
+
 With ```python-kasa``` installed, try the following:
 
 - Plug one of your TP-Link smart devices (here: TP-Link Smart Plug Type HS110) into the power socket.
@@ -34,5 +36,17 @@ Discovering devices on 255.255.255.255 for 3 seconds
   + <Module Emeter (emeter) for 192.168.0.1>
 Found 1 devices
 ```
+
+## 200 - Provision the TP-Link Smart Device (Mandatory!)
+
+You can provision (i.e. make it connect to the same wifi-network as your Home Assistant instance) your device without any extra apps by using the ```$ kasa wifi``` command:
+
+If the device is unprovisioned, connect to its open network (here: TP-LINK_Smart Plug_4F10).
+
+Use ```kasa discover``` (or check the routes) to locate the IP address of the device (likely 192.168.0.1, if unprovisioned)
+
+Scan for available networks using ```$ kasa --host 192.168.0.1 wifi scan```. See which networks are visible to the device.
+
+Join/change the network using ```$ kasa --host 192.168.0.1 wifi join <network to join>```. Here use the same wifi-network as the one your Home Assistant instance is connected to (here: TP-Link_1476_5G, which is the TP-Link Router).
 
 More ...
