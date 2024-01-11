@@ -72,7 +72,8 @@ See also https://home-assistant.io/integrations/tplink/
 
 1) Inside your Home Assistant instance, open https://home-assistant.io/integrations/tplink/
 2) Click on the button: **Add Integration to my (Home Assistant)**.
-3) Follow the instructions.
+3) When asked to open page in your Home Assistant, edit the URL so it becomes ```http://127.0.0.1:8123```. Click **Open link**.
+4) Follow the instructions.
 
 ### 200 - Manual Integration
 
