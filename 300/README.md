@@ -3,8 +3,8 @@
 With ```python-kasa``` installed, try the following:
 
 - Plug one of your TP-Link smart devices (here: TP-Link Smart Plug Type HS110) into the power socket.
-- Press the 'discoverable' button on the smart device; a light will flash indicating that the device is advertising itself on your local wifi-network (here: XXX).
-- Switch your wifi-network connection of your computer to the advertised network of the smart device (here: XXX).
+- Press the 'discoverable' button on the smart device; a light will flash indicating that the device is advertising itself on your local wifi-network (here: TP-LINK_Smart Plug_4F10).
+- Switch your wifi-network connection of your computer to the advertised network of the smart device (here: TP-LINK_Smart Plug_4F10).
 - On the terminal, run the following command: ```kasa discover```.
 - You will be prompted, if successfull, with something like the following:
 
