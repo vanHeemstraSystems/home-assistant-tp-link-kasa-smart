@@ -7,6 +7,8 @@ Based on "kasa command line tool" at https://python-kasa.readthedocs.io/en/lates
 
 Based on "Python Kasa" at https://python-kasa.readthedocs.io/en/latest/index.html
 
+Based on "TP-Link Community" at https://community.tp-link.com/en/smart-home/forum/614
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
