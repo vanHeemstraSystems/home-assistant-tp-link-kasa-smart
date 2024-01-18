@@ -104,7 +104,4 @@ In above TP-Link Network Map you find the IP Address of our TP-Link Kasa Smart P
 
 Now we can fill in the form with this IP Address and click **SUBMIT**.
 
-
-MORE ..
-
-
+6) Your TP-Link Kasa Smart Plug is found and added to the Home Assistant Integrations. See http://[home assistant hostname or ip]/config/integrations/integration/tplink 
