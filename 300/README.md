@@ -96,7 +96,13 @@ Next, open the web interface of this TP-Link Router, by going to ```[http://tpli
 
 **NOTE**: If this is your first time logging into to the web interface of your TP-Link Router, you will be asked to create an administrator password. Choose something memorizable, and login.
 
+![TP-Link_Network_Map](https://github.com/vanHeemstraSystems/home-assistant-tp-link-kasa-smart/assets/1499433/2ab357f0-d641-4587-9869-cc68cf8ff2e2)
 
+TP-Link Network Map
+
+In above TP-Link Network Map you find the IP Address of our TP-Link Kasa Smart Plug (here: HS110), which is: **192.168.1.103**
+
+Now we can fill in the form with this IP Address and click **SUBMIT**.
 
 
 MORE ..
