@@ -90,7 +90,13 @@ See also https://home-assistant.io/integrations/tplink/
 
 iOS TP-Link Kasa App, Device Info
 
-We'll than enter the Network Info (here: ```TP-Link_1476```), which is the WiFi Network this device was provisioned to, into the textbox and click **SUBMIT**.
+We'll than find the Network Info (here: ```TP-Link_1476```), which is the WiFi Network this device was provisioned to.
+
+Next, open the web interface of this TP-Link Router, by going to ```http://tplinkwifi.net/``` or ```http://192.168.0.1``` alternatively from a browser that is connected to the same Network (here: ```TP-Link_1476```). 
+
+**NOTE**: If this is your first time logging into to the web interface of your TP-Link Router, you will be asked to create an administrator password. Choose something memorizable, and login.
+
+
 
 
 MORE ..
