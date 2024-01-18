@@ -11,6 +11,8 @@ Based on "TP-Link Community" at https://community.tp-link.com/en/smart-home/foru
 
 Based on "Can I change the hostname on my HS100 / HS110 devices?" at https://community.tp-link.com/en/smart-home/forum/topic/268318
 
+Based on "How do I log into the web-based Utility (Management Page) of TP-Link wireless router?" at https://www.tp-link.com/us/support/faq/87/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
