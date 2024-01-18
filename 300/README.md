@@ -90,7 +90,7 @@ See also https://home-assistant.io/integrations/tplink/
 
 iOS TP-Link Kasa App, Device Info
 
-We'll than find the Network Info (here: ```TP-Link_1476```), which is the WiFi Network this device was provisioned to.
+We'll then find the Network Info (here: ```TP-Link_1476```), which is the WiFi Network this TP-Link Smart Plug device was provisioned to.
 
 Next, open the web interface of this TP-Link Router, by going to ```[http://tplinkwifi.net/](http://tplinkwifi.net/)``` or ```[http://192.168.0.1](http://192.168.0.1)``` alternatively from a browser that is connected to the same Network (here: ```TP-Link_1476```). 
 
