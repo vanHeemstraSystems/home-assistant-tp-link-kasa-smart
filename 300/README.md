@@ -83,8 +83,11 @@ See also https://home-assistant.io/integrations/tplink/
 2) Search for ```TP-Link``` to set up a new integration.
 3) When listed, click on the found ```TP-Link``` list item.
 4) When asked what do you want to add, choose ```TP-Link Kasa Smart```.
-5) We can use the Hostname or IP address of our TP-Link device, but as we have already provisioned it to the same wifi-network as the one Home Assistant is connected to, we leave the field empty so discovery will be used instead. Click **SUBMIT**.
-6) 
+5A) We can use the Hostname or IP address of our TP-Link device, but as we have already provisioned it to the same wifi-network as the one Home Assistant is connected to, we leave the field empty so discovery will be used instead. Click **SUBMIT**.
+5B) Alternatively, we can use the Hostname of our TP-Link device, which we can retrieve when opening the iOS TP-Link Kasa app on our mobile device and look up the Device Info:
+
+
+iOS TP-Link Kasa App, Device Info
 
 
 MORE ..
