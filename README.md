@@ -9,6 +9,8 @@ Based on "Python Kasa" at https://python-kasa.readthedocs.io/en/latest/index.htm
 
 Based on "TP-Link Community" at https://community.tp-link.com/en/smart-home/forum/71
 
+Based on "Can I change the hostname on my HS100 / HS110 devices?" at https://community.tp-link.com/en/smart-home/forum/topic/268318
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
