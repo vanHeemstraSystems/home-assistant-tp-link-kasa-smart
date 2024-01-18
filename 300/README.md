@@ -87,7 +87,10 @@ See also https://home-assistant.io/integrations/tplink/
 5B) Alternatively, we can use the Hostname of our TP-Link device, which we can retrieve when opening the iOS TP-Link Kasa app on our mobile device and look up the Device Info:
 
 ![14AFA3A4-0D8E-4F94-9FCD-CC5130A75224](https://github.com/vanHeemstraSystems/home-assistant-tp-link-kasa-smart/assets/1499433/9d489f52-ba8b-488c-a8bf-e19ed95991f3)
+
 iOS TP-Link Kasa App, Device Info
+
+We'll than enter the Network Info (here: ```TP-Link_1476```), which is the WiFi Network this device was provisioned to, into the textbox and click **SUBMIT**.
 
 
 MORE ..
