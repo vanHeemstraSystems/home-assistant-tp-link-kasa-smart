@@ -80,7 +80,7 @@ See also https://home-assistant.io/integrations/tplink/
 ### 200 - Manual Integration
 
 1) Inside your Home Assistant instance go to Settings > Devices & Services. Choose the tab **Integrations** and if the ```TP-Link``` integration is not already there, click the button **+ ADD INTEGRATION**.
-2) Search for ```TP-Link`` to set up a new integration.
+2) Search for ```TP-Link``` to set up a new integration.
 3) When listed, click on the found ```TP-Link``` list item.
 4) When asked what do you want to add, choose ```TP-Link Kasa Smart```.
 5) We can use the Hostname or IP address of our TP-Link device, but as we have already provisioned it to the same wifi-network as the one Home Assistant is connected to, we leave the field empty so discovery will be used instead. Click **SUBMIT**.
