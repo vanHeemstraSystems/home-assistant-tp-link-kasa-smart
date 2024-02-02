@@ -13,6 +13,8 @@ Based on "Can I change the hostname on my HS100 / HS110 devices?" at https://com
 
 Based on "How do I log into the web-based Utility (Management Page) of TP-Link wireless router?" at https://www.tp-link.com/us/support/faq/87/
 
+Based on "I lived with 54 KASA switches for 18 months. Here's what I think about them." at https://www.youtube.com/watch?v=JuUSVzjN6Nc
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
